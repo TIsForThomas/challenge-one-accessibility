@@ -16,8 +16,8 @@ What's a semantic element?
 
 A semantic element describes its meaning to both developers AND the browser. A non-semantic element on really has meaning to the developer or developers that created it. In html we have certain semantic tags we can put things on our page into that allow the browser to read them out to a sceen reader.
 Examples of semantic vs non-semantic tags:
-- Non-semantic elements include: <div> and <span>.
-- Semantic elements include: !<-- <header> -->, <footer>, <nav>, and <section>.
+- Non-semantic elements include: `<div>` and `<span>`.
+- Semantic elements include:`<header>`, `<footer>`, `<nav>`, and `<section>`.
 
 ## What changed?
 
