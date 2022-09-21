@@ -4,6 +4,10 @@
     margin: 0;
 }
 
+section, aside{
+    display: inline;
+}
+
 body {
     background-color: #d9dcd6;
 }
@@ -34,6 +38,7 @@ body {
 
 .header div ul {
     list-style-type: none;
+
 }
 
 .header div ul li {
